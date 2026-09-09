@@ -81,8 +81,10 @@ Reference tables are frozen outputs from that verified run. The verifier compare
 new output to them and does not copy them into the analysis. It does not certify every
 sentence or number in a manuscript. Raw data must be obtained separately.
 
+<!--
 ## Citation and reuse
 
 See [CITATION.md](CITATION.md). No author identities, journal acceptance, DOI or
 repository URL have been invented. No software reuse licence is assigned in this
 package; the authors can add their chosen licence independently of provider data terms.
+-->
