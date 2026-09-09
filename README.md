@@ -86,6 +86,3 @@ sentence or number in a manuscript. Raw data must be obtained separately.
 See [CITATION.md](CITATION.md). No author identities, journal acceptance, DOI or
 repository URL have been invented. No software reuse licence is assigned in this
 package; the authors can add their chosen licence independently of provider data terms.
-
-上传时选择本文件夹内的全部文件即可，无需上传生成的 `outputs/`、虚拟环境或原始数据。
-文章中的代码可用性表述及需要同步更正的文稿数字见 `docs/MANUSCRIPT_NOTES_ZH.md`。
