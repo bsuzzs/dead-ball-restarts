@@ -87,14 +87,5 @@ See [CITATION.md](CITATION.md). No author identities, journal acceptance, DOI or
 repository URL have been invented. No software reuse licence is assigned in this
 package; the authors can add their chosen licence independently of provider data terms.
 
-## 中文快速说明
-
-完整计算命令见上方。先取得原始数据，设置 `RESTART_DATA`，运行输入校验、
-`run_all.py` 和结果校验。目录内不包含原始事件数据或本机路径。
-
-**本文 xG 口径：**传球型重启计入同一半场内 15 秒内本方射门的 xG 总和；
-直接任意球射门和点球仅计重启射门本身。均以该类全部重启次数为分母，无射门记 0。
-这不是所有类别统一的“窗口内全部射门累计”指标。
-
 上传时选择本文件夹内的全部文件即可，无需上传生成的 `outputs/`、虚拟环境或原始数据。
 文章中的代码可用性表述及需要同步更正的文稿数字见 `docs/MANUSCRIPT_NOTES_ZH.md`。
