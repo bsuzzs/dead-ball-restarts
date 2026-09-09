@@ -1,0 +1,15 @@
+# Raw provider data is never redistributed from this repository.
+data/raw/
+outputs/
+*.parquet
+*.csv.gz
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+.DS_Store
+._*
+.ipynb_checkpoints/
